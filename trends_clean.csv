@@ -1,0 +1,99 @@
+post_id,title,category,score,num_comments,author,collected_at
+47704804,How NASA built Artemis II’s fault-tolerant computer,news,127,42,speckx,2026-04-10 08:45:58
+47708818,Native Instant Space Switching on macOS,news,346,174,PaulHoule,2026-04-10 08:45:59
+47675906,Generative art over the years,news,27,2,evakhoury,2026-04-10 08:46:00
+47709158,Charcuterie – Visual similarity Unicode explorer,news,145,27,rickcarlino,2026-04-10 08:46:02
+47708041,PicoZ80 – Drop-In Z80 Replacement,news,159,26,rickcarlino,2026-04-10 08::03
+47680005,RAM Has a Design Flaw from 1966. I Bypassed It [video],news,41,2,surprisetalk,2026-04-10 08:46:04
+47709130,Reverse engineering Gemini's SynthID detection,news,118,43,_tk_,2026-04-10 08:46:05
+47660911,Will I ever own a zettaflop?,news,67,36,surprisetalk,2026-04-10 08:46:06
+47712718,I still prefer MCP over skills,news,13,15,gmays,2026-04-10 08:46:07
+47706140,Unfolder for Mac – A 3D model unfolding tool for creating papercraft,news,154,33,codazoda,2026-04-10 08:46:08
+47712340,Microsoft PhotoDNA scanning problem,news,83,34,darkzek,2026-04-10 08:46:09
+47710007,Moving from WordPress to Jekyll (and static site generators in general),news,50,22,rgrieselhuber,2026-04-10 08:46:10
+47706141,Research-Driven Agents: When an agent reads before it codes,news,142,46,hopechong,2026-04-10 08:46:11
+47710907,Many African families spend fortunes burying their dead,news,149,121,powera,2026-04-10 08:46:12
+47707762,"Hegel, a universal property-based testing protocol and family of PBT libraries",news,87,30,PaulHoule,2026-04-10 08:46:13
+47701148,Top laptops to use with FreeBSD,news,287,163,fork-bomber,2026-04-10 08:46:15
+47707477,Old laptops in a colo as low cost servers,news,165,92,argentum47,2026-04-10 08:46:16
+47651764,How Close Is Too Close? Applying Fluid Dynamics Research Methods to PC Cooling,news,16,3,LabsLucas,2026-04-10 08:46:17
+47712222,Apple's New iPhone Update Is Restricting Internet Freedom in the UK,news,13,0,josephcsible,2026-04-10 08:46:18
+47700972,Reallocating $100/Month Claude Code Spend to Zed and OpenRouter,news,305,207,kisamoto,2026-04-10 08:46:19
+47685644,Introduction to Nintendo DS Programming,news,222,51,medbar,2026-04-10 08:46:20
+47705413,Show HN: I built a Cargo-like build tool for C/C++,news,125,112,randerson_112,2026-04-10 08:46:21
+47702541,A WebGPU implementation of Augmented Vertex Block Descent,news,128,15,juretriglav,2026-04-10 08:46:22
+47710782,The Training Example Lie Bracket,news,18,10,pb1729,2026-04-10 08:46:23
+47701572,"Wit, unker, Git: The lost medieval pronouns of English intimacy",news,192,122,eigenspace,2026-04-10 08:46:24
+47706268,EFF is leaving X,news,1176,987,gregsadetsky,2026-04-10 08:46:26
+47695666,Show HN: Druids – Build your own software factory,news,28,5,etherio,2026-04-10 08:46:27
+47710149,Microsoft is employing dark patterns to goad users into paying for storage?,news,240,137,jpmitchell,2026-04-10 08:46:28
+47697870,LittleSnitch for Linux,news,1281,416,pluc,2026-04-10 08:46:29
+47702647,"Launch HN: Relvy (YC F24) – On-call runbooks, automated",news,40,22,behat,2026-04-10 08:46:30
+47712771,"Google's AI Overviews spew false answers per hour, bombshell study reveals",news,7,0,1vuio0pswjnm7,2026-04-10 08:46:31
+47658950,Haunted Paper Toys,news,230,29,exvi,2026-04-10 08:46:32
+47712739,NewTek Video Toaster Demo Reel,news,7,1,shrubble,2026-04-10 08:46:33
+47707632,"Instant 1.0, a backend for AI-coded apps",news,105,65,stopachka,2026-04-10 08:46:34
+47702196,"Show HN: CSS Studio. Design by hand, code by agent",news,142,94,SirHound,2026-04-10 08:46:35
+47703419,Meta removes ads for social media addiction litigation,news,555,227,giuliomagnifico,2026-04-10 08:46:36
+47710835,"Show HN: Rust based eBook library for Python, with MIT license",news,8,0,larry-the-agent,2026-04-10 08:46:37
+47691730,I ported Mac OS X to the Nintendo Wii,news,1833,313,blkhp19,2026-04-10 08:46:39
+47702499,Lichess and Take Take Take Sign Cooperation Agreement,news,177,53,stevage,2026-04-10 08:46:40
+47708817,Maine is about to become the first state to ban major new data centers,news,257,365,rmason,2026-04-10 08:46:41
+47701100,Creating the Futurescape for the Fifth Element (2019),news,118,94,nixass,2026-04-10 08:46:42
+47661977,Doing Impressions: Monet's Early Caricatures (ca. late 1850s),news,44,1,prismatic,2026-04-10 08:46:43
+47711960,Vibe-Coded Ext4 for OpenBSD,news,6,4,signa11,2026-04-10 08:46:44
+47670188,Robots eat cars,news,45,41,JMill,2026-04-10 08:46:46
+47703528,"The Future of Everything Is Lies, I Guess: Part 3 – Culture",news,111,78,aphyr,2026-04-10 08:46:47
+47680061,Building a framework-agnostic Ruby gem (and making sure it doesn't break),news,48,6,joemasilotti,2026-04-10 08:46:48
+47661972,Small Engines,news,79,18,surprisetalk,2026-04-10 08:46:50
+47687273,Git commands I run before reading any code,news,2221,471,grepsedawk,2026-04-10 08:46:51
+47710466,Kagi Product Tips – Customize Your Search Results with URL Redirects,news,7,0,treetalker,2026-04-10 08:46:52
+47703123,How Pizza Tycoon simulated traffic on a 25 MHz CPU,news,267,57,FinnKuhn,2026-04-10 08:46:53
+47701233,Claude mixes up who said what,news,414,325,sixhobbits,2026-04-10 08:46:54
+47710845,BunnyCDN has been silently losing our production files for 15 months,news,128,28,speckx,2026-04-10 08:46:55
+47708411,Bitmap fonts make computers feel like computers again,news,86,68,speckx,2026-04-10 08:46:56
+47712151,YouTube Premium just went up to $15.99 / mo (US),news,14,4,tehwebguy,2026-04-10 08:46:58
+47663743,"Show HN: Moon simulator game, ray-casting",news,95,23,JKCalhoun,2026-04-10 08:46:59
+47660434,C# in Unity 2026: Writing more modern code,news,70,93,hacker_13,2026-04-10 08:47:00
+47711623,Mexico's President Sheinbaum Decrees Universal Healthcare for 120M,news,20,6,testing22321,2026-04-10 08:47:01
+47711352,Any Open Source projects in need of documentation writer?,news,15,10,tree666,2026-04-10 08:47:02
+47704259,"Show HN: Guruka.com – free guided mediations. No signup, private, works offline",news,22,4,eummm,2026-04-10 08:47:03
+47703065,Session is shutting down in 90 days,news,138,164,balamatom,2026-04-10 08:47:04
+47712755,"Detox may erase 10 years of social media brain damage, researchers say",news,5,2,1vuio0pswjnm7,2026-04-10 08:47:05
+47699181,Open source security at Astral,news,354,101,vinhnx,2026-04-10 08:47:06
+47704881,The Vercel plugin on Claude Code wants to read your prompts,news,255,102,akshay2603,2026-04-10 08:47:07
+47712065,Mystery over 8 missing or dead scientific experts,news,6,2,ZunarJ5,2026-04-10 08:47:08
+47710919,How the Trivy supply chain attack harvested credentials from secrets managers,news,14,14,Rial_Labs,2026-04-10 08:47:09
+47712238,One Method Was Using 71% of CPU. Here's the Flame Graph,news,6,1,siegers,2026-04-10 08:47:10
+47708179,Glasses Got Worse on Purpose,news,55,15,chrisaycock,2026-04-10 08:47:11
+47700388,Help Keep Thunderbird Alive,news,524,361,playfultones,2026-04-10 08:47:14
+47678690,Six (and a half) intuitions for KL divergence,news,107,27,jxmorris12,2026-04-10 08:47:15
+47656730,Understanding Traceroute,news,163,24,stonecharioteer,2026-04-10 08:47:16
+47661297,What does it mean to “write like you talk”?,news,97,81,surprisetalk,2026-04-10 08:47:17
+47709197,US defense official overseeing AI reaped millions selling xAI stock,news,40,6,malshe,2026-04-10 08:47:18
+47659135,Sam Altman may control our future – can he be trusted?,news,2129,895,adrianhon,2026-04-10 08:47:19
+47694983,Expanding Swift's IDE Support,news,135,69,frizlab,2026-04-10 08:47:20
+47695012,USB for Software Developers: An introduction to writing userspace USB drivers,news,397,47,WerWolv,2026-04-10 08:47:21
+47688678,They're made out of meat (1991),news,620,168,surprisetalk,2026-04-10 08:47:22
+47685320,Who is Satoshi Nakamoto? My quest to unmask Bitcoin's creator,news,598,782,jfirebaugh,2026-04-10 08:47:23
+47702791,Show HN: 41 years sea surface temperature anomalies,news,140,60,willmeyers,2026-04-10 08:47:24
+47705834,"Little Snitch comes to Linux, but the core logic is closed source",news,71,25,TheIPW,2026-04-10 08:47:25
+47676561,Teardown of unreleased LG Rollable shows why rollable phones aren't a thing,news,118,56,DamnInteresting,2026-04-10 08:47:27
+47693153,Understanding the Kalman filter with a simple radar example,news,415,63,alex_be,2026-04-10 08:47:28
+47700662,Today Is CSS Naked Day,news,36,3,edent,2026-04-10 08:47:29
+47706555,Margin – Open annotation layer for the internet,news,8,2,embedding-shape,2026-04-10 08:47:30
+47704687,"A complete GPT language model in ~600 lines of C#, zero dependencies",news,18,4,evo_9,2026-04-10 08:47:31
+47666639,The Importance of Being Idle,news,302,190,Caiero,2026-04-10 08:47:32
+47686549,Veracrypt project update,news,1253,488,super256,2026-04-10 08:47:33
+47707253,ChatGPT Pro now starts at $100/month,news,198,216,strongpigeon,2026-04-10 08:47:34
+47709251,Netflix Prices Went Up Again – I Bought a DVD Player Instead,news,184,220,speckx,2026-04-10 08:47:35
+47676065,Things I learned from Reddit fashion,news,23,12,surprisetalk,2026-04-10 08:47:36
+47689237,US cities are axing Flock Safety surveillance technology,news,744,422,giuliomagnifico,2026-04-10 08:47:37
+47687248,Škoda DuoBell: A bicycle bell that penetrates noise-cancelling headphones,news,588,591,ra,2026-04-10 08:47:38
+47705802,Show HN: Mdpdf a 2k line C CLI to convert Markdown to tiny PDFs,news,7,2,bastscho,2026-04-10 08:47:39
+47696035,John Deere to pay $99M in right-to-repair settlement,news,378,124,CharlesW,2026-04-10 08:47:40
+47679121,Project Glasswing: Securing critical software for the AI era,news,1510,824,Ryan5453,2026-04-10 08:47:42
+47689648,ML promises to be profoundly weird,news,593,587,pabs3,2026-04-10 08:47:43
+47653642,Binary obfuscation that doesn't kill LTO,news,141,94,noztol,2026-04-10 08:47:44
+47693679,I've been waiting over a month for Anthropic to respond to my billing issue,news,414,194,nickvec,2026-04-10 08:47:45
+47676509,Lunar Flyby,news,951,245,kipi,2026-04-10 08:47:46
